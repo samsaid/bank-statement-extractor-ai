@@ -1,0 +1,124 @@
+{
+  "cardLast4": "2918",
+  "periodStart": "2026-04-10",
+  "periodEnd": "2026-05-09",
+  "previousBalance": 3314.61,
+  "newBalance": 10094.23,
+  "transactions": [
+    {
+      "date": "2026-04-10",
+      "merchant": "MURRAY - DANIEL LAKE STERLIN",
+      "amount": 520.46
+    },
+    {
+      "date": "2026-04-10",
+      "merchant": "PROSACCO - HYATT WEBERBURGH",
+      "amount": 111.04
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "DICKINSON - TORPHY EVANSVILLE",
+      "amount": 209.3
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "BAYER - KRIS FREEPORT",
+      "amount": 420.41
+    },
+    {
+      "date": "2026-04-14",
+      "merchant": "OBERBRUNNER, GREEN AND JENKI ROXANNEBERG",
+      "amount": 841.19
+    },
+    {
+      "date": "2026-04-14",
+      "merchant": "BODE - MCGLYNN BETHLEHEM",
+      "amount": 430.72
+    },
+    {
+      "date": "2026-04-17",
+      "merchant": "MEDHURST - HANE COLLIERLAND",
+      "amount": 748.87
+    },
+    {
+      "date": "2026-04-21",
+      "merchant": "PACOCHA - CRIST GOLDNERTON",
+      "amount": 893.35
+    },
+    {
+      "date": "2026-04-22",
+      "merchant": "WEIMANN LLC CATALINA FOO",
+      "amount": 431.24
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "MORAR, MCCULLOUGH AND NITZSC LACYBURY",
+      "amount": 820.47
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "MILLS INC HOOVER",
+      "amount": 131.52
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "HAYES, OBERBRUNNER AND HERMA ILABURY",
+      "amount": 594.74
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "BLOCK LLC HIGHLAND",
+      "amount": 268.8
+    },
+    {
+      "date": "2026-04-27",
+      "merchant": "CASSIN INC LAKE KYLASTE",
+      "amount": 785.11
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "ARMSTRONG, TOWNE AND EBERT BRAKUSLAND",
+      "amount": 881.3
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "MERTZ, MAYER AND RUNTE LAKE MONSERR",
+      "amount": 199.19
+    },
+    {
+      "date": "2026-04-30",
+      "merchant": "TROMP - PARISIAN EVANSTON",
+      "amount": 4
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -3314.61
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "BOGAN, MOHR AND BOTSFORD NORTH JENNIN",
+      "amount": 480.09
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "HANSEN, PACOCHA AND COLLIER POUROSCESTER",
+      "amount": 678.86
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "DIBBERT GROUP SOUTH CRAWFO",
+      "amount": 115.62
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "REMPEL AND SONS NORTH DESHAU",
+      "amount": 487.65
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "LITTEL - BRAUN LEWFIELD",
+      "amount": 40.3
+    }
+  ]
+}

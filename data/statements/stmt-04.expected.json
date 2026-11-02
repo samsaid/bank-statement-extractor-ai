@@ -1,0 +1,59 @@
+{
+  "cardLast4": "7035",
+  "periodStart": "2026-07-05",
+  "periodEnd": "2026-08-03",
+  "previousBalance": 2785.16,
+  "newBalance": 2645.75,
+  "transactions": [
+    {
+      "date": "2026-07-05",
+      "merchant": "METZ - DANIEL INGLEWOOD",
+      "amount": 346.68
+    },
+    {
+      "date": "2026-07-14",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -2785.16
+    },
+    {
+      "date": "2026-07-17",
+      "merchant": "POWLOWSKI - HESSEL FORT JENNING",
+      "amount": 489.09
+    },
+    {
+      "date": "2026-07-20",
+      "merchant": "BOEHM - HUDSON WEST JULIEN",
+      "amount": 430.02
+    },
+    {
+      "date": "2026-07-24",
+      "merchant": "BARTELL, BECHTELAR AND HARVE REMPELMOUTH",
+      "amount": 620.5
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "WELCH-KRAJCIK - HAMILL ARLINGTON HE",
+      "amount": 537.85
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "KAUTZER GROUP NEW CARLO",
+      "amount": 751.93
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "POUROS, KUHN AND WELCH-BATZ MANTESHIRE",
+      "amount": 33.45
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "REFUND KAUTZER GROUP NEW CARLO",
+      "amount": -751.93
+    },
+    {
+      "date": "2026-08-02",
+      "merchant": "AUER AND SONS NEW MADISONH",
+      "amount": 188.16
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "doc-extractor",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "tsx src/generate.ts",
+    "extract": "tsx src/extract.ts",
+    "eval": "tsx src/eval.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "openai": "^7.47.0",
+    "pdfkit": "^0.20.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/pdfkit": "^0.17.7",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "private": true
+}

@@ -1,0 +1,159 @@
+{
+  "cardLast4": "5838",
+  "periodStart": "2026-04-02",
+  "periodEnd": "2026-05-01",
+  "previousBalance": 412.5,
+  "newBalance": 10776.83,
+  "transactions": [
+    {
+      "date": "2026-04-02",
+      "merchant": "JAST, FRIESEN AND OKUNEVA FORT KOREY",
+      "amount": 379.38
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "LANGWORTH GROUP HOWESHIRE",
+      "amount": 126.36
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "LOWE LLC FERRYBOROUGH",
+      "amount": 672.6
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "LITTEL INC REBECCABURY",
+      "amount": 116.97
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "WEIMANN LLC LAKE TRACY",
+      "amount": 349.33
+    },
+    {
+      "date": "2026-04-05",
+      "merchant": "RUSSEL, KEEBLER AND BARTELL UPTONBURGH",
+      "amount": 371.11
+    },
+    {
+      "date": "2026-04-07",
+      "merchant": "KEMMER - CONN WEST CIARA",
+      "amount": 464.27
+    },
+    {
+      "date": "2026-04-07",
+      "merchant": "NICOLAS GROUP LAKE LUTHER",
+      "amount": 149.15
+    },
+    {
+      "date": "2026-04-09",
+      "merchant": "LOCKMAN GROUP SALT LAKE CI",
+      "amount": 845.73
+    },
+    {
+      "date": "2026-04-09",
+      "merchant": "BUCKRIDGE GROUP PORT BRADFOR",
+      "amount": 427.7
+    },
+    {
+      "date": "2026-04-10",
+      "merchant": "BECHTELAR - FISHER SOUTH MARIAN",
+      "amount": 216.16
+    },
+    {
+      "date": "2026-04-10",
+      "merchant": "VEUM, SCHMELER AND SCHINNER GAITHERSBURG",
+      "amount": 339.9
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "GERLACH - LUETTGEN SIMONESIDE",
+      "amount": 570.89
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "TORPHY AND SONS TROMPSTEAD",
+      "amount": 11.25
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "LYNCH, MARKS AND ZBONCAK NEW MICHEALC",
+      "amount": 325.46
+    },
+    {
+      "date": "2026-04-14",
+      "merchant": "WEISSNAT - PROSACCO FORT JARED",
+      "amount": 272.89
+    },
+    {
+      "date": "2026-04-17",
+      "merchant": "YOST - ABSHIRE PONTIAC",
+      "amount": 656.92
+    },
+    {
+      "date": "2026-04-17",
+      "merchant": "BOGAN, LINDGREN AND WOLF EBONYPORT",
+      "amount": 73.38
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "BERGNAUM - SCHOWALTER-HAAG LAKE KAITLIN",
+      "amount": 818.66
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "BOTSFORD, FRAMI AND TOY MAYERMOUTH",
+      "amount": 178.13
+    },
+    {
+      "date": "2026-04-22",
+      "merchant": "DARE - VOLKMAN-HILPERT FORT TOREYHA",
+      "amount": 267.12
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "BEER AND SONS WISOZKHAVEN",
+      "amount": 193.47
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "CROOKS - NADER SANTA CRUZ",
+      "amount": 170.35
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "LEUSCHKE GROUP FORT MYERS",
+      "amount": 170.31
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "ROLFSON, JERDE-HILPERT AND W JEFFERSONVIL",
+      "amount": 676.53
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "STRACKE - BERGNAUM WEST STEFAN",
+      "amount": 426.58
+    },
+    {
+      "date": "2026-04-27",
+      "merchant": "DIETRICH GROUP SOUTH FREEDA",
+      "amount": 255
+    },
+    {
+      "date": "2026-04-27",
+      "merchant": "HAMILL GROUP SOUTH ADALBE",
+      "amount": 461.14
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -412.5
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "BRADTKE, PAUCEK AND SPORER PORT MARTAFU",
+      "amount": 790.09
+    }
+  ]
+}

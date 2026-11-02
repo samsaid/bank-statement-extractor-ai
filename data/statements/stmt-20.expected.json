@@ -1,0 +1,69 @@
+{
+  "cardLast4": "9871",
+  "periodStart": "2026-04-10",
+  "periodEnd": "2026-05-09",
+  "previousBalance": 878.54,
+  "newBalance": 3484.55,
+  "transactions": [
+    {
+      "date": "2026-04-10",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -878.54
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "HOPPE, LOWE AND LANGOSH SIMONISCESTE",
+      "amount": 97.55
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "FRIESEN-BINS LLC OLIVIABERG",
+      "amount": 738.77
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "KEEBLER - FEENEY OLETASIDE",
+      "amount": 335.1
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "ROLFSON LLC NEW TOMMY",
+      "amount": 312.48
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "WILL, BERGE AND FRANEY PORT SAMUEL",
+      "amount": 771.94
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "PARKER - O'CONNELL PEGGIEHAVEN",
+      "amount": 126.16
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "LITTLE AND SONS WEST JANESSA",
+      "amount": 792.28
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "THIEL, JASKOLSKI AND WILLMS FRANEYSHIRE",
+      "amount": 270.55
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "REFUND WILL, BERGE AND FRANEY PORT SAMUEL",
+      "amount": -771.94
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "SCHULIST - STOKES LAKE DERICKS",
+      "amount": 154.47
+    },
+    {
+      "date": "2026-05-08",
+      "merchant": "SAUER AND SONS CHRISTIANSEN",
+      "amount": 657.19
+    }
+  ]
+}

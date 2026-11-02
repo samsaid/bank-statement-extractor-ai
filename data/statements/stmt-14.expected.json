@@ -1,0 +1,89 @@
+{
+  "cardLast4": "0384",
+  "periodStart": "2026-08-21",
+  "periodEnd": "2026-09-19",
+  "previousBalance": 266.26,
+  "newBalance": 6299.16,
+  "transactions": [
+    {
+      "date": "2026-08-21",
+      "merchant": "HERMANN - LEANNON HUDSONBURGH",
+      "amount": 199.94
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "PACOCHA GROUP SOUTH VALLEY",
+      "amount": 725.17
+    },
+    {
+      "date": "2026-08-23",
+      "merchant": "SCHULTZ - GREEN EAST FINN",
+      "amount": 320.35
+    },
+    {
+      "date": "2026-08-23",
+      "merchant": "DOYLE GROUP HEMPSTEAD",
+      "amount": 488.96
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "MORAR, RATKE AND THIEL EMARDBORO",
+      "amount": 225.06
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "BEDNAR - BRAUN GIBSONVILLE",
+      "amount": 146.93
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "KRAJCIK - PFEFFER NORTH ROMAN",
+      "amount": 739.79
+    },
+    {
+      "date": "2026-09-08",
+      "merchant": "CARROLL INC LAKE SIERRAB",
+      "amount": 458.5
+    },
+    {
+      "date": "2026-09-08",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -266.26
+    },
+    {
+      "date": "2026-09-12",
+      "merchant": "PURDY INC ARDENFIELD",
+      "amount": 265.27
+    },
+    {
+      "date": "2026-09-13",
+      "merchant": "MORISSETTE, LEBSACK AND WAEL FREDSIDE",
+      "amount": 600.82
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "BRAKUS-ADAMS - ROGAHN JONESBORO",
+      "amount": 235.06
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "WILDERMAN, LAKIN AND BRAKUS NEW SAMUEL",
+      "amount": 610.22
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "MONAHAN, DAUGHERTY AND CARRO NORTH JEDIDI",
+      "amount": 77.95
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "KLEIN GROUP TAMPA",
+      "amount": 421.28
+    },
+    {
+      "date": "2026-09-17",
+      "merchant": "KEEBLER LLC KUTCHVIEW",
+      "amount": 783.86
+    }
+  ]
+}

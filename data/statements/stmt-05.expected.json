@@ -1,0 +1,84 @@
+{
+  "cardLast4": "2206",
+  "periodStart": "2026-07-12",
+  "periodEnd": "2026-08-10",
+  "previousBalance": 1637.34,
+  "newBalance": 5647.35,
+  "transactions": [
+    {
+      "date": "2026-07-13",
+      "merchant": "ZIEMANN, ROSENBAUM AND SCHUL EAST KAMRON",
+      "amount": 85.06
+    },
+    {
+      "date": "2026-07-20",
+      "merchant": "AUER - HOPPE SCHADENLAND",
+      "amount": 377.57
+    },
+    {
+      "date": "2026-07-23",
+      "merchant": "WYMAN AND SONS DEBBIELAND",
+      "amount": 321.1
+    },
+    {
+      "date": "2026-07-26",
+      "merchant": "BLICK - KSHLERIN MARTINSTEAD",
+      "amount": 242.52
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "BAILEY, SWIFT AND SCHMELER GLENDALE",
+      "amount": 691.17
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "ROWE LLC GARDENA",
+      "amount": 570.46
+    },
+    {
+      "date": "2026-08-01",
+      "merchant": "O'KON - CORWIN-KEMMER IOWA CITY",
+      "amount": 575.76
+    },
+    {
+      "date": "2026-08-02",
+      "merchant": "LANG - MORISSETTE OAK PARK",
+      "amount": 236.04
+    },
+    {
+      "date": "2026-08-06",
+      "merchant": "CUMMINGS, WEISSNAT AND LANGW EAST NYASIA",
+      "amount": 317.06
+    },
+    {
+      "date": "2026-08-06",
+      "merchant": "WILL - O'KON GISSELLEBURG",
+      "amount": 651.91
+    },
+    {
+      "date": "2026-08-06",
+      "merchant": "STROMAN, PREDOVIC AND ROMAGU FORT ROCKYLA",
+      "amount": 303.6
+    },
+    {
+      "date": "2026-08-06",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -1637.34
+    },
+    {
+      "date": "2026-08-08",
+      "merchant": "BERNHARD - BERGSTROM ALMASIDE",
+      "amount": 876.22
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "BAILEY, KUHN AND KILBACK FORT CARLEY",
+      "amount": 715.94
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "REFUND CUMMINGS, WEISSNAT AND LANGW EAST NYASIA",
+      "amount": -317.06
+    }
+  ]
+}

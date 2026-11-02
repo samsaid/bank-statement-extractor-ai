@@ -1,0 +1,114 @@
+{
+  "cardLast4": "5122",
+  "periodStart": "2026-08-31",
+  "periodEnd": "2026-09-29",
+  "previousBalance": 2646.67,
+  "newBalance": 8185.77,
+  "transactions": [
+    {
+      "date": "2026-08-31",
+      "merchant": "BERGSTROM, SAUER AND LEANNON LAKE CLETUSB",
+      "amount": 801.7
+    },
+    {
+      "date": "2026-09-01",
+      "merchant": "HESSEL AND SONS DAPHNETOWN",
+      "amount": 688.62
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "BARTELL, THIEL AND BATZ TOWNEBOROUGH",
+      "amount": 811.16
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "ROWE-WISOKY - SCHMELER WEST DIANNE",
+      "amount": 321.72
+    },
+    {
+      "date": "2026-09-04",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -2646.67
+    },
+    {
+      "date": "2026-09-07",
+      "merchant": "NIENOW, DICKI AND MERTZ LAKE ORLO",
+      "amount": 171.39
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "BERNHARD - REICHERT EMMERICHCHES",
+      "amount": 437.14
+    },
+    {
+      "date": "2026-09-13",
+      "merchant": "SANFORD, LIND AND TOWNE-HILP SOUTH JAIMEH",
+      "amount": 327.18
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "GORCZANY, MILLER AND KLOCKO AUFDERHARFOR",
+      "amount": 549.9
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "KUHLMAN - HAAG BARNSTABLE T",
+      "amount": 378.49
+    },
+    {
+      "date": "2026-09-17",
+      "merchant": "EBERT, DONNELLY AND SCHMITT APOPKA",
+      "amount": 807.94
+    },
+    {
+      "date": "2026-09-18",
+      "merchant": "MRAZ, STRACKE AND ZBONCAK HUDSONBURGH",
+      "amount": 538.38
+    },
+    {
+      "date": "2026-09-18",
+      "merchant": "BERGE, WOLF AND WEHNER SOUTH DANIEL",
+      "amount": 243.9
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "CORKERY - CRIST SOUTH PENELO",
+      "amount": 523.89
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "REFUND GORCZANY, MILLER AND KLOCKO AUFDERHARFOR",
+      "amount": -549.9
+    },
+    {
+      "date": "2026-09-20",
+      "merchant": "LEUSCHKE-KUHN, MARQUARDT AND ALEXANDRAVIE",
+      "amount": 78.86
+    },
+    {
+      "date": "2026-09-21",
+      "merchant": "O'KON, NADER AND RAU EAST CORALIE",
+      "amount": 384.09
+    },
+    {
+      "date": "2026-09-24",
+      "merchant": "RUECKER GROUP FORT LELIAMO",
+      "amount": 581.34
+    },
+    {
+      "date": "2026-09-26",
+      "merchant": "PREDOVIC INC PALM HARBOR",
+      "amount": 717.23
+    },
+    {
+      "date": "2026-09-26",
+      "merchant": "EFFERTZ, O'HARA-SCHNEIDER AN FREDYSHIRE",
+      "amount": 153.12
+    },
+    {
+      "date": "2026-09-28",
+      "merchant": "MAYER, ZULAUF AND SCHOEN YUBA CITY",
+      "amount": 219.62
+    }
+  ]
+}

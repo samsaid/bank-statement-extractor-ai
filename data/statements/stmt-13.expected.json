@@ -1,0 +1,79 @@
+{
+  "cardLast4": "0524",
+  "periodStart": "2026-02-24",
+  "periodEnd": "2026-03-25",
+  "previousBalance": 2720.45,
+  "newBalance": 5442.94,
+  "transactions": [
+    {
+      "date": "2026-02-25",
+      "merchant": "DAUGHERTY AND SONS SANDRINEVILL",
+      "amount": 280.88
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "BOSCO - O'CONNER NORTH MARQUI",
+      "amount": 636.85
+    },
+    {
+      "date": "2026-03-01",
+      "merchant": "RITCHIE, HEGMANN AND DUBUQUE MAGALIWORTH",
+      "amount": 544.46
+    },
+    {
+      "date": "2026-03-04",
+      "merchant": "WISOKY - ROBEL IRVINE",
+      "amount": 274.73
+    },
+    {
+      "date": "2026-03-04",
+      "merchant": "FRIESEN, SIPES AND PACOCHA NEW FLOSSIEF",
+      "amount": 302.64
+    },
+    {
+      "date": "2026-03-05",
+      "merchant": "HILPERT, WYMAN AND MCLAUGHLI QUITZONVILLE",
+      "amount": 703.23
+    },
+    {
+      "date": "2026-03-07",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -2720.45
+    },
+    {
+      "date": "2026-03-12",
+      "merchant": "MILLS, ROWE AND LANG FORT MUHAMMA",
+      "amount": 417.16
+    },
+    {
+      "date": "2026-03-13",
+      "merchant": "STREICH - CRIST REDWOOD CITY",
+      "amount": 795.05
+    },
+    {
+      "date": "2026-03-15",
+      "merchant": "ROLFSON GROUP WEST ARI",
+      "amount": 468.27
+    },
+    {
+      "date": "2026-03-17",
+      "merchant": "GRANT INC HINTZSHIRE",
+      "amount": 578.64
+    },
+    {
+      "date": "2026-03-18",
+      "merchant": "SMITHAM, WISOZK AND PURDY MESA",
+      "amount": 870.43
+    },
+    {
+      "date": "2026-03-22",
+      "merchant": "GOODWIN, HEGMANN AND STIEDEM KUNZEBURY",
+      "amount": 149.24
+    },
+    {
+      "date": "2026-03-22",
+      "merchant": "REFUND GRANT INC HINTZSHIRE",
+      "amount": -578.64
+    }
+  ]
+}

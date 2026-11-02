@@ -1,0 +1,64 @@
+{
+  "cardLast4": "8234",
+  "periodStart": "2026-08-24",
+  "periodEnd": "2026-09-22",
+  "previousBalance": 962.68,
+  "newBalance": 2533.11,
+  "transactions": [
+    {
+      "date": "2026-08-28",
+      "merchant": "BECHTELAR - KUB PORT AMIRA",
+      "amount": 66.83
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "BEIER LLC ORNTON",
+      "amount": 399.32
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "DAUGHERTY AND SONS WALKERTON",
+      "amount": 254.7
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "WILLIAMSON GROUP NORTH MADALY",
+      "amount": 851.54
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "NITZSCHE - JOHNS WEST VERASTE",
+      "amount": 656.6
+    },
+    {
+      "date": "2026-09-13",
+      "merchant": "MCCLURE - KSHLERIN WATERLOO",
+      "amount": 22.79
+    },
+    {
+      "date": "2026-09-16",
+      "merchant": "SCHMIDT, MURRAY AND JERDE MENIFEE",
+      "amount": 545.77
+    },
+    {
+      "date": "2026-09-17",
+      "merchant": "CHAMPLIN - FRANECKI FORT BROWN",
+      "amount": 345.78
+    },
+    {
+      "date": "2026-09-18",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -962.68
+    },
+    {
+      "date": "2026-09-21",
+      "merchant": "COLE - HOMENICK NEW DARINPOR",
+      "amount": 46.38
+    },
+    {
+      "date": "2026-09-21",
+      "merchant": "REFUND NITZSCHE - JOHNS WEST VERASTE",
+      "amount": -656.6
+    }
+  ]
+}

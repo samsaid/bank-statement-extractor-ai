@@ -1,0 +1,149 @@
+{
+  "cardLast4": "4509",
+  "periodStart": "2026-04-10",
+  "periodEnd": "2026-05-09",
+  "previousBalance": 3062.19,
+  "newBalance": 13124.04,
+  "transactions": [
+    {
+      "date": "2026-04-10",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -3062.19
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "SPENCER - ROBEL NORTH ROSE",
+      "amount": 284.07
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "STEHR, DONNELLY-WILDERMAN AN LEXIETON",
+      "amount": 561.24
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "ROMAGUERA, MAYER-HERMISTON A LAKE TAMI",
+      "amount": 94.32
+    },
+    {
+      "date": "2026-04-12",
+      "merchant": "BEATTY GROUP ELECTAFIELD",
+      "amount": 836.52
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "CARTER - GREENHOLT HILPERTTOWN",
+      "amount": 271.92
+    },
+    {
+      "date": "2026-04-15",
+      "merchant": "BEER, GLEICHNER AND HOEGER NORTH KAILEE",
+      "amount": 365.65
+    },
+    {
+      "date": "2026-04-16",
+      "merchant": "BOYER - KSHLERIN JACOBISHIRE",
+      "amount": 893.95
+    },
+    {
+      "date": "2026-04-17",
+      "merchant": "LUEILWITZ, RYAN AND GRAHAM LAKE ERNATOW",
+      "amount": 461.48
+    },
+    {
+      "date": "2026-04-18",
+      "merchant": "ZIEME - GRIMES LAKE CARSONF",
+      "amount": 692.72
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "JOHNSTON, KUPHAL AND DIBBERT PORT ANDREA",
+      "amount": 846.88
+    },
+    {
+      "date": "2026-04-21",
+      "merchant": "FAHEY, MITCHELL-HERZOG AND T LUCIETON",
+      "amount": 615.31
+    },
+    {
+      "date": "2026-04-22",
+      "merchant": "O'REILLY, EMMERICH AND GRIME LAKE LOGANVI",
+      "amount": 642.75
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "KREIGER LLC GUSIKOWSKIBU",
+      "amount": 724.58
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "DANIEL - WIEGAND KATHRYNFORT",
+      "amount": 256.4
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "HARTMANN LLC TERRYSTAD",
+      "amount": 256.38
+    },
+    {
+      "date": "2026-04-25",
+      "merchant": "WINDLER LLC RUTHERFORDMO",
+      "amount": 878.48
+    },
+    {
+      "date": "2026-04-25",
+      "merchant": "BLICK - KOELPIN CARMELPORT",
+      "amount": 190.64
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "TROMP, KOCH AND BERGSTROM EAST JODIE",
+      "amount": 54.89
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "BOGISICH, JASKOLSKI AND HEID PORT VINCENZ",
+      "amount": 271.71
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "GREENFELDER - QUIGLEY EAST JASMINE",
+      "amount": 862.27
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "KUPHAL - HERMISTON DAVIE",
+      "amount": 572.02
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "BREKKE AND SONS ARDENSIDE",
+      "amount": 405.14
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "HODKIEWICZ, PFANNERSTILL AND RATKECHESTER",
+      "amount": 869.54
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "BRAUN, BEAHAN AND KUTCH-KEMM GILLIANTON",
+      "amount": 691.51
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "REFUND BREKKE AND SONS ARDENSIDE",
+      "amount": -405.14
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "LITTLE-WINDLER, FAHEY AND MU SCHROEDERFUR",
+      "amount": 351.18
+    },
+    {
+      "date": "2026-05-08",
+      "merchant": "WELCH - WOLFF RAYNORBURGH",
+      "amount": 577.63
+    }
+  ]
+}

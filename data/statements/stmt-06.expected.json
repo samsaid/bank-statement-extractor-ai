@@ -1,0 +1,154 @@
+{
+  "cardLast4": "2504",
+  "periodStart": "2026-03-31",
+  "periodEnd": "2026-04-29",
+  "previousBalance": 701.21,
+  "newBalance": 8873.72,
+  "transactions": [
+    {
+      "date": "2026-03-31",
+      "merchant": "KLOCKO, ORN AND HACKETT WISOZKLAND",
+      "amount": 606.32
+    },
+    {
+      "date": "2026-03-31",
+      "merchant": "MCCLURE LLC RAYNORSHIRE",
+      "amount": 19.35
+    },
+    {
+      "date": "2026-03-31",
+      "merchant": "FEENEY INC BLAIRCHESTER",
+      "amount": 365.67
+    },
+    {
+      "date": "2026-04-02",
+      "merchant": "GREENFELDER LLC SAN BERNARDI",
+      "amount": 38.54
+    },
+    {
+      "date": "2026-04-02",
+      "merchant": "KOHLER INC MACON-BIBB C",
+      "amount": 432.83
+    },
+    {
+      "date": "2026-04-02",
+      "merchant": "CUMMINGS LLC CRANSTON",
+      "amount": 88.86
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "FERRY, STEUBER AND STROSIN KENNYVILLE",
+      "amount": 353.8
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "HAUCK-DECKOW, KUPHAL AND FAY WESTMINSTER",
+      "amount": 586.34
+    },
+    {
+      "date": "2026-04-05",
+      "merchant": "GERHOLD, REINGER AND HEGMANN FORT LELAH",
+      "amount": 396.44
+    },
+    {
+      "date": "2026-04-05",
+      "merchant": "FRAMI - WATSICA NORTH ELIANE",
+      "amount": 278.64
+    },
+    {
+      "date": "2026-04-06",
+      "merchant": "TROMP INC PORT ISABELL",
+      "amount": 601.79
+    },
+    {
+      "date": "2026-04-07",
+      "merchant": "BATZ - WATSICA NEW YAZMIN",
+      "amount": 868.71
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "SCHMIDT - BRAUN WEBERTON",
+      "amount": 488.54
+    },
+    {
+      "date": "2026-04-12",
+      "merchant": "SMITHAM, KUPHAL AND MARKS FORT DARINCH",
+      "amount": 356.3
+    },
+    {
+      "date": "2026-04-12",
+      "merchant": "CHAMPLIN-BRAUN, GOODWIN AND  WEST ANDREAN",
+      "amount": 63.65
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "SANFORD, ROWE AND BARTOLETTI NORTH CHARLE",
+      "amount": 717.49
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "KEELING - BERGNAUM EMMIEPORT",
+      "amount": 13.42
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "CONROY-KUPHAL - MACGYVER WEST FAVIANT",
+      "amount": 73.48
+    },
+    {
+      "date": "2026-04-17",
+      "merchant": "BASHIRIAN, KRAJCIK AND MCDER COON RAPIDS",
+      "amount": 103.39
+    },
+    {
+      "date": "2026-04-18",
+      "merchant": "BEAHAN-WOLFF - SAWAYN GINOBOROUGH",
+      "amount": 601.83
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "HAYES, TREMBLAY AND KLEIN BODETON",
+      "amount": 224.65
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "WINDLER - LUBOWITZ LAKE RICHMON",
+      "amount": 207.59
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -701.21
+    },
+    {
+      "date": "2026-04-21",
+      "merchant": "JONES INC LANDENFURT",
+      "amount": 660.6
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "SCHUMM, ABSHIRE AND HYATT FERRYBURY",
+      "amount": 206.86
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "RAU INC MARIANBERG",
+      "amount": 474.07
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "O'HARA - HARTMANN LYNCHCESTER",
+      "amount": 420.29
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "RUTHERFORD - KLING-FEIL EAST RODNEYV",
+      "amount": 226.1
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "REFUND BEAHAN-WOLFF - SAWAYN GINOBOROUGH",
+      "amount": -601.83
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cardLast4": "5902",
+  "periodStart": "2026-04-05",
+  "periodEnd": "2026-05-04",
+  "previousBalance": 1818.16,
+  "newBalance": 1369.1,
+  "transactions": [
+    {
+      "date": "2026-04-05",
+      "merchant": "CARROLL LLC HIRTHE-GRANT",
+      "amount": 203.57
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "TORPHY - CONROY BOEHMCESTER",
+      "amount": 68.27
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -1818.16
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "YOST, SCHULIST AND ROMAGUERA PORT THADLAN",
+      "amount": 444.88
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "WIEGAND-MARVIN - GREENHOLT LAKE QUINTEN",
+      "amount": 84.81
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "TOY - BINS-LUEILWITZ MALDEN",
+      "amount": 567.57
+    }
+  ]
+}

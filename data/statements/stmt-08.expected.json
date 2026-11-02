@@ -1,0 +1,44 @@
+{
+  "cardLast4": "3460",
+  "periodStart": "2026-05-09",
+  "periodEnd": "2026-06-07",
+  "previousBalance": 3544.78,
+  "newBalance": 2521.92,
+  "transactions": [
+    {
+      "date": "2026-05-09",
+      "merchant": "BOYLE-JACOBS - LUETTGEN HERMISTONFIE",
+      "amount": 500.14
+    },
+    {
+      "date": "2026-05-09",
+      "merchant": "DOUGLAS, HANSEN AND TERRY GRESHAM",
+      "amount": 405.4
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "O'CONNELL - STOLTENBERG TUSCALOOSA",
+      "amount": 229.26
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -3544.78
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "SANFORD LLC NEW AMANIVIL",
+      "amount": 121.16
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "SPENCER, MCLAUGHLIN AND MANN RUECKERVILLE",
+      "amount": 417.02
+    },
+    {
+      "date": "2026-06-06",
+      "merchant": "MILLS-MCCULLOUGH, O'REILLY A WEST LOMA",
+      "amount": 848.94
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "cardLast4": "1123",
+  "periodStart": "2026-02-14",
+  "periodEnd": "2026-03-15",
+  "previousBalance": 3221.73,
+  "newBalance": 11723.07,
+  "transactions": [
+    {
+      "date": "2026-02-14",
+      "merchant": "GLEASON, HAMILL AND TORP WINDLERTOWN",
+      "amount": 645.3
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "WEHNER LLC WEST ROGERSF",
+      "amount": 551.81
+    },
+    {
+      "date": "2026-02-18",
+      "merchant": "KUVALIS, ERNSER-TORPHY AND N LEMKECHESTER",
+      "amount": 387.33
+    },
+    {
+      "date": "2026-02-20",
+      "merchant": "BEATTY, HUEL AND ANDERSON MCKENZIEVIEW",
+      "amount": 876.5
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "SCHILLER - CORWIN JULIANNESHIR",
+      "amount": 38.93
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "BEATTY, KOCH AND FRITSCH REANNAPORT",
+      "amount": 317.68
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "HUELS-REMPEL - SCHNEIDER HILO",
+      "amount": 705.62
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "OBERBRUNNER, WEHNER AND FADE NEW CAROLINE",
+      "amount": 378.08
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "CONROY, HILLL AND SPORER ERNSERBURGH",
+      "amount": 787.04
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "KOSS - CRIST ZULAFORT",
+      "amount": 359.89
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "PAUCEK, KRAJCIK AND O'REILLY MINNETONKA",
+      "amount": 644.13
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "CRUICKSHANK, WISOKY AND FRAN OMARSTEAD",
+      "amount": 814.21
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "BOGAN, SPENCER AND SCHOWALTE HAVERHILL",
+      "amount": 414.83
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "JERDE - BERNIER EAST ALIZA",
+      "amount": 379.01
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "LEMKE, GUSIKOWSKI AND CRUICK NEW NICKCHES",
+      "amount": 838.6
+    },
+    {
+      "date": "2026-03-01",
+      "merchant": "TURNER - BEATTY DARRONBURGH",
+      "amount": 736.12
+    },
+    {
+      "date": "2026-03-06",
+      "merchant": "HAYES GROUP ROBYNSHIRE",
+      "amount": 169.6
+    },
+    {
+      "date": "2026-03-07",
+      "merchant": "PAGAC - HOWELL NORTH PATRIC",
+      "amount": 312.54
+    },
+    {
+      "date": "2026-03-07",
+      "merchant": "LINDGREN, HOEGER AND SPORER JUVENALBOROU",
+      "amount": 38.22
+    },
+    {
+      "date": "2026-03-07",
+      "merchant": "BRADTKE, MILLS AND BAILEY WESTMINSTER",
+      "amount": 124.51
+    },
+    {
+      "date": "2026-03-08",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -3221.73
+    },
+    {
+      "date": "2026-03-09",
+      "merchant": "HEANEY - VANDERVORT ALFREDOSTAD",
+      "amount": 396.05
+    },
+    {
+      "date": "2026-03-09",
+      "merchant": "EFFERTZ, JACOBSON AND VANDER LAKE CELIA",
+      "amount": 309.87
+    },
+    {
+      "date": "2026-03-09",
+      "merchant": "JACOBI INC PORT KALEPOR",
+      "amount": 109.48
+    },
+    {
+      "date": "2026-03-10",
+      "merchant": "FERRY - BROWN HOEGERFIELD",
+      "amount": 354.71
+    },
+    {
+      "date": "2026-03-12",
+      "merchant": "STROSIN - ROLFSON SOUTH HAYLIE",
+      "amount": 147.75
+    },
+    {
+      "date": "2026-03-14",
+      "merchant": "RITCHIE - LEMKE EAST TYRELFI",
+      "amount": 885.26
+    }
+  ]
+}

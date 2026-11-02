@@ -1,0 +1,64 @@
+{
+  "cardLast4": "9688",
+  "periodStart": "2026-04-14",
+  "periodEnd": "2026-05-13",
+  "previousBalance": 459.73,
+  "newBalance": 3605.53,
+  "transactions": [
+    {
+      "date": "2026-04-14",
+      "merchant": "TOY GROUP SCHUPPESTAD",
+      "amount": 640.09
+    },
+    {
+      "date": "2026-04-15",
+      "merchant": "STIEDEMANN, ROMAGUERA AND WI GRADYSIDE",
+      "amount": 103.98
+    },
+    {
+      "date": "2026-04-16",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -459.73
+    },
+    {
+      "date": "2026-04-17",
+      "merchant": "LOCKMAN INC BROCKTON",
+      "amount": 382.03
+    },
+    {
+      "date": "2026-04-22",
+      "merchant": "O'KEEFE - RUNOLFSSON UPTONCHESTER",
+      "amount": 505.72
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "HERZOG INC FRISCO",
+      "amount": 158.86
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "PFANNERSTILL - STEUBER PORT MARJORY",
+      "amount": 462.85
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "CONROY, ROHAN AND HERMAN LAKE RIDGE",
+      "amount": 881.26
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "ANDERSON INC NEW MODESTA",
+      "amount": 46.18
+    },
+    {
+      "date": "2026-05-09",
+      "merchant": "REFUND ANDERSON INC NEW MODESTA",
+      "amount": -46.18
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "TRANTOW, FISHER AND MCCULLOU ST. JOSEPH",
+      "amount": 470.74
+    }
+  ]
+}

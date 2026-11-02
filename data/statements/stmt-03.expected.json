@@ -1,0 +1,159 @@
+{
+  "cardLast4": "5429",
+  "periodStart": "2026-08-19",
+  "periodEnd": "2026-09-17",
+  "previousBalance": 2496.6,
+  "newBalance": 12447.47,
+  "transactions": [
+    {
+      "date": "2026-08-20",
+      "merchant": "BOGISICH - DUBUQUE NEW RANSOM",
+      "amount": 566.23
+    },
+    {
+      "date": "2026-08-21",
+      "merchant": "GORCZANY, DENESIK AND KUHIC ROGAHNTOWN",
+      "amount": 229.44
+    },
+    {
+      "date": "2026-08-21",
+      "merchant": "DIBBERT - TREUTEL NEW AVERYVIE",
+      "amount": 872.61
+    },
+    {
+      "date": "2026-08-24",
+      "merchant": "GOLDNER, BALISTRERI AND OBER EAST AIYANAL",
+      "amount": 720.52
+    },
+    {
+      "date": "2026-08-24",
+      "merchant": "FRAMI LLC SKOKIE",
+      "amount": 359.27
+    },
+    {
+      "date": "2026-08-26",
+      "merchant": "KOZEY, WARD AND CASPER-RENNE CINCINNATI",
+      "amount": 62.65
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "VANDERVORT, REINGER AND WATS ATLANTA",
+      "amount": 26.65
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "LEMKE GROUP EAST FRANCIS",
+      "amount": 729.46
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "LESCH - CORWIN EAST JUSTEN",
+      "amount": 686.93
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "MERTZ, SPINKA-SMITHAM AND GO PORT ZIONSTA",
+      "amount": 692.78
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "KOEPP, KUVALIS AND HOPPE BROCKSHIRE",
+      "amount": 566.05
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "HEIDENREICH LLC BREANNEBERG",
+      "amount": 450.04
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -2496.6
+    },
+    {
+      "date": "2026-08-31",
+      "merchant": "NADER, DAUGHERTY AND JOHNS FORT ARVELFO",
+      "amount": 191.29
+    },
+    {
+      "date": "2026-09-01",
+      "merchant": "KOHLER INC VALENTINECES",
+      "amount": 483.88
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "STOLTENBERG, WALTER AND KOEL LEVITTOWN",
+      "amount": 297.89
+    },
+    {
+      "date": "2026-09-03",
+      "merchant": "REFUND KOEPP, KUVALIS AND HOPPE BROCKSHIRE",
+      "amount": -566.05
+    },
+    {
+      "date": "2026-09-04",
+      "merchant": "BARROWS, PURDY AND ANKUNDING NEW STACY",
+      "amount": 315.39
+    },
+    {
+      "date": "2026-09-04",
+      "merchant": "CREMIN, KASSULKE AND WALSH RILEYLAND",
+      "amount": 829
+    },
+    {
+      "date": "2026-09-06",
+      "merchant": "CHAMPLIN - NITZSCHE WEST MARCELI",
+      "amount": 175.48
+    },
+    {
+      "date": "2026-09-06",
+      "merchant": "HEGMANN, MCCULLOUGH AND WHIT NEW AIDANSID",
+      "amount": 839.11
+    },
+    {
+      "date": "2026-09-07",
+      "merchant": "LIND, KEMMER AND HETTINGER YOSTSTEAD",
+      "amount": 215.79
+    },
+    {
+      "date": "2026-09-07",
+      "merchant": "ANKUNDING - BALISTRERI NEW REAGANBO",
+      "amount": 235.7
+    },
+    {
+      "date": "2026-09-08",
+      "merchant": "BREITENBERG, FLATLEY AND AUF EAST SHERRI",
+      "amount": 535.45
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "SCHINNER GROUP EAST JEREMIA",
+      "amount": 789.85
+    },
+    {
+      "date": "2026-09-13",
+      "merchant": "ORTIZ, MARQUARDT AND DIBBERT SOUTH BRETT",
+      "amount": 550.73
+    },
+    {
+      "date": "2026-09-13",
+      "merchant": "STAMM GROUP PORT MELANY",
+      "amount": 648.87
+    },
+    {
+      "date": "2026-09-13",
+      "merchant": "BECKER INC ALBANY",
+      "amount": 302.15
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "KOZEY - RYAN GIANNISTAD",
+      "amount": 142.25
+    },
+    {
+      "date": "2026-09-15",
+      "merchant": "CHRISTIANSEN, FAY AND HERZOG LAKE JERALDH",
+      "amount": 498.06
+    }
+  ]
+}

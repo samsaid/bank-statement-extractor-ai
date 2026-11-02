@@ -1,0 +1,84 @@
+{
+  "cardLast4": "6618",
+  "periodStart": "2026-05-31",
+  "periodEnd": "2026-06-29",
+  "previousBalance": 1671.04,
+  "newBalance": 6080.55,
+  "transactions": [
+    {
+      "date": "2026-05-31",
+      "merchant": "LEANNON - GERLACH CONNORFIELD",
+      "amount": 413.99
+    },
+    {
+      "date": "2026-06-01",
+      "merchant": "ULLRICH - ROWE JALONTOWN",
+      "amount": 59.2
+    },
+    {
+      "date": "2026-06-01",
+      "merchant": "WUNSCH INC KOHLERWORTH",
+      "amount": 548.85
+    },
+    {
+      "date": "2026-06-10",
+      "merchant": "FRIESEN - LEDNER PORT MOISESS",
+      "amount": 76.31
+    },
+    {
+      "date": "2026-06-13",
+      "merchant": "STARK LLC KRISTATON",
+      "amount": 462.71
+    },
+    {
+      "date": "2026-06-14",
+      "merchant": "SCHADEN - LARSON JACYNTHELAND",
+      "amount": 200.89
+    },
+    {
+      "date": "2026-06-14",
+      "merchant": "KUNZE - RUNOLFSSON NEW MAGALIWO",
+      "amount": 64.86
+    },
+    {
+      "date": "2026-06-17",
+      "merchant": "NITZSCHE, SCHADEN AND SPENCE NEW FOREST",
+      "amount": 303.06
+    },
+    {
+      "date": "2026-06-22",
+      "merchant": "GRANT, NICOLAS AND VOLKMAN PAMELABOROUG",
+      "amount": 771.89
+    },
+    {
+      "date": "2026-06-23",
+      "merchant": "NITZSCHE - MACEJKOVIC RAYMONDBORO",
+      "amount": 743.07
+    },
+    {
+      "date": "2026-06-23",
+      "merchant": "DOUGLAS INC WEST DALTONS",
+      "amount": 791.98
+    },
+    {
+      "date": "2026-06-25",
+      "merchant": "RUTHERFORD-BALISTRERI - VAND MAGALIFIELD",
+      "amount": 344.24
+    },
+    {
+      "date": "2026-06-26",
+      "merchant": "HEIDENREICH - OLSON MILWAUKEE",
+      "amount": 843.33
+    },
+    {
+      "date": "2026-06-26",
+      "merchant": "DOUGLAS - O'KON SOUTH SOLONF",
+      "amount": 456.17
+    },
+    {
+      "date": "2026-06-28",
+      "merchant": "PAYMENT RECEIVED - THANK YOU",
+      "amount": -1671.04
+    }
+  ]
+}
